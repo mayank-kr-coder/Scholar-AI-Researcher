@@ -1,0 +1,6 @@
+{
+  "name": "AI Research Paper Analyzer",
+  "description": "An interactive web tool to analyze research papers. Upload a PDF, automatically extract key findings and methodology, and chat with your papers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
