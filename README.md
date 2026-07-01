@@ -1,3 +1,5 @@
+<img width="1851" height="880" alt="Screenshot 2026-07-01 171014" src="https://github.com/user-attachments/assets/7157adb4-e5da-49a8-8fb0-491ccf8ababb" />
+<img width="1851" height="880" alt="Screenshot 2026-07-01 171014" src="https://github.com/user-attachments/assets/9a76c595-18ee-4971-ac94-420602468895" />
 <div align="center">
 
 # 📚 Scholar AI Researcher
